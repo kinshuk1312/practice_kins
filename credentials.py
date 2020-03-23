@@ -1,0 +1,2 @@
+usr = 'kinshuk'
+pwd = 'kinshuk'
